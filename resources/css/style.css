@@ -120,6 +120,26 @@ h3{
   padding: 20px;
 }
 
+footer{
+  background-color: MediumAquamarine;
+  margin: auto;
+  font-family: Verdana;
+  font-size: 12px;
+  height: 325px;
+  position: relative;
+  top: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.logo{
+  font-family: Georgia;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+}
+
 #tuna{
   background-image: url("../images/img-story-main.png");
 }
